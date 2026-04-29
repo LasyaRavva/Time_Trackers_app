@@ -725,9 +725,9 @@ Your **Time Tracking & Analytics Dashboard** is complete and ready to deploy!
 
 ---
 
-*For the live demo, visit: https://LasyaRavva.github.io/Masai-Evaluation/
+*For the live demo, visit: https://LasyaRavva.github.io/Time_Trackers_app/
 
-*For the source code, visit:https://github.com/LasyaRavva/Masai-Evaluation
+*For the source code, visit:https://github.com/LasyaRavva/Time_Trackers_app
 
 *For video walkthrough, visit: https://docs.google.com/videos/d/1nO6TbnHKPutDo2BBtgagThvupuNOT79J1TyeYBmzvgQ/edit?usp=sharing
 
