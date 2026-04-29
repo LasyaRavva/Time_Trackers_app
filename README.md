@@ -6,8 +6,8 @@ A modern, responsive web application for tracking daily activities in minutes an
 
 ## 🌟 Live Demo & Links
 
-- **Live Demo**: [https://LasyaRavva.github.io/Masai-Evaluation](https://LasyaRavva.github.io/Masai-Evaluation)
-- **GitHub Repository**: [https://github.com/LasyaRavva/Masai-Evaluation](https://github.com/LasyaRavva/Masai-Evaluation)
+- **Live Demo**: [https://LasyaRavva.github.io/Masai-Evaluation](https://LasyaRavva.github.io/Time_Trackers_app)
+- **GitHub Repository**: [https://github.com/LasyaRavva/Masai-Evaluation](https://github.com/LasyaRavva/Time_Trackers_app)
 - **Video Walkthrough**: [https://docs.google.com/videos/d/1nO6TbnHKPutDo2BBtgagThvupuNOT79J1TyeYBmzvgQ/edit?usp=sharing](https://docs.google.com/videos/d/1nO6TbnHKPutDo2BBtgagThvupuNOT79J1TyeYBmzvgQ/edit?usp=sharing) (2-5 minutes)
 
 ---
